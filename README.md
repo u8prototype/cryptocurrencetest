@@ -12,4 +12,6 @@ By the way it don't have P2P data or some nodes...
 
 It's just a prototype for understand the basic's of Crypto Currence
 
+Use Execute.py to see all of test's I did in sequence
+
 Thanks.
